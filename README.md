@@ -1,3 +1,2 @@
 # cucumber-tutorial
-cucumber tutorial
-this is a test
+教學文件的路徑要記得更改，否則圖片會找不到
