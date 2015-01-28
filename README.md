@@ -24,7 +24,7 @@ cucumber
 
 在**[src/test/java]**底下新增一個[package]，並建立下圖中的3個檔案  
 [.feature]是動作腳本，目的在於記錄使用者想要達到怎麼樣的功能 
-![](https://raw.githubusercontent.com/t2831245/cucumber-tutorial/master/img/005.png)  
+![](https://raw.githubusercontent.com/t2831245/cucumber-tutorial/96cef452f69f35c77a8c9dcfd1e64950adcaecc7/img/005.png)  
 
 [.feature]新增方法是 new 一個 file  
 ![](https://raw.githubusercontent.com/t2831245/cucumber-tutorial/master/img/051.png)  
