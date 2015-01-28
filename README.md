@@ -1,8 +1,9 @@
 cucumber
 =
-###安裝
-###介紹
-###除錯
+#####安裝
+#####介紹
+#####除錯
+#####參考資料
 
 ##安裝
 在STS的**[Package Explorer]** new 一個 **[Maven Project]**  
@@ -18,7 +19,7 @@ cucumber
 ![](https://raw.githubusercontent.com/t2831245/cucumber-tutorial/master/img/004.png)
 
 ##介紹
-在**[src/test/java]**底下新增一個[package]，並放入下例圖中的3個檔案  
+在**[src/test/java]**底下新增一個[package]，並建立下圖中的3個檔案  
 [.feature]是動作腳本，目的在於記錄使用者想要達到怎麼樣的功能 
 ![](https://raw.githubusercontent.com/t2831245/cucumber-tutorial/master/img/005.png)
 
@@ -56,3 +57,15 @@ cucumber
 
 如果沒有使用規則表示法帶參數的話，會發生以下問題  
 ![](https://raw.githubusercontent.com/t2831245/cucumber-tutorial/master/img/017.png)  
+
+##參考資料 
+
+[BDD（1）：詳盡的文件就是可用的軟體 ](http://teddy-chen-tw.blogspot.tw/2013/07/bdd1.html)  
+
+[BDD（2）：大家來吃小黃瓜之Cucumber運作原理 ](http://teddy-chen-tw.blogspot.tw/2013/07/bdd2cucumber.html)  
+
+[BDD（3）：在Eclipse執行Cucumber-JVM ](http://teddy-chen-tw.blogspot.tw/2013/07/bdd3eclipsecucumber-jvm.html)  
+
+[BDD（4）：第一個Cucumber-JVM範例，上集 ](http://teddy-chen-tw.blogspot.tw/2013/07/bdd4cucumber-jvm.html)  
+
+[BDD（5）：第一個Cucumber-JVM範例，下集](http://teddy-chen-tw.blogspot.tw/2013/08/bdd5cucumber-jvm.html)  
