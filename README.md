@@ -19,9 +19,15 @@ cucumber
 ![](https://raw.githubusercontent.com/t2831245/cucumber-tutorial/master/img/004.png)
 
 ##介紹
+在 Eclipse 的工具列點選**[HELP]**->**[Install New Software]**，然後輸入例圖的路徑  
+![](https://raw.githubusercontent.com/t2831245/cucumber-tutorial/master/img/050.png)  
+
 在**[src/test/java]**底下新增一個[package]，並建立下圖中的3個檔案  
 [.feature]是動作腳本，目的在於記錄使用者想要達到怎麼樣的功能 
-![](https://raw.githubusercontent.com/t2831245/cucumber-tutorial/master/img/005.png)
+![](https://raw.githubusercontent.com/t2831245/cucumber-tutorial/master/img/005.png)  
+
+[.feature]新增方法是 new 一個 file  
+![](https://raw.githubusercontent.com/t2831245/cucumber-tutorial/master/img/051.png)  
 
 第二個程式則要實作剛剛寫好的腳本動作  
 在 @Give @When @Then 裡的內容必須和[.feature]寫的一樣才能抓到
